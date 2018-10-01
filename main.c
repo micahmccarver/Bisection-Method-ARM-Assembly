@@ -1,8 +1,4 @@
-/******************************************
-Name: Micah McCarver
-Lab 2
-9/28/2018
-*******************************************/
+
 
 __asm int my_sqrt(int x){
 	PUSH {r4, r5, r6, r7, r8}   //push all needed registers
